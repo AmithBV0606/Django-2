@@ -3,7 +3,6 @@
 ### Django Wrokflow :
 
 <img src="./public/Pic-1.png" />
-<img src="./public/Pic-2.png" />
 
 ### Folder Structure :
 
